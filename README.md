@@ -1,4 +1,5 @@
 # Chat-App
+* This is a real-time chat application. In this App, multiple people can connect and interact with each other.
 
 ## Built With
 * html
